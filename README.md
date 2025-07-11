@@ -7,6 +7,7 @@ Enterprise-grade AI-powered network intrusion detection system with real-time th
 
 **⭐ Key Highlights
 **
+
       🤖 99.8% ML Accuracy - Random Forest classifier trained on CICIDS 2017 dataset
       ⚡ Real-time Processing - Sub-second threat detection with multi-threading
       🔒 Privacy-Preserving - Metadata-only analysis, no payload inspection
