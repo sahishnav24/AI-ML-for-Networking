@@ -62,4 +62,4 @@ Enterprise-grade AI-powered network intrusion detection system with real-time th
         │   └── dashboard.html            #  dashboard
             |── app.py                         # Flask web application
         ├── README.md                      # This file
-        └── LICENSE                        # MIT License
+       
