@@ -60,6 +60,7 @@ Enterprise-grade AI-powered network intrusion detection system with real-time th
         │   └── classifier.py             # Threat classification engine
         ├── 📁 templates/                   # Web Interface
         │   └── dashboard.html            #  dashboard
-            |── app.py                         # Flask web application
+            |── app.py                     # Flask web application
+        ├── cicids2017.csv                 #Dataset (Download from given drive link and keep it in main floder)  
         ├── README.md                      # This file
        
