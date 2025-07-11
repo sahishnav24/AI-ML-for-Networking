@@ -5,8 +5,7 @@ Enterprise-grade AI-powered network intrusion detection system with real-time th
 🚀 Overview
     This cutting-edge cybersecurity solution combines machine learning, real-time packet analysis, and intelligent web monitoring to detect network threats with 99.8% accuracy. Built for enterprise environments, it provides automated threat detection, privacy-preserving analysis, and real-time alerting through an intuitive web dashboard.
 
-**⭐ Key Highlights
-**
+**Key Highlights**
 
       🤖 99.8% ML Accuracy - Random Forest classifier trained on CICIDS 2017 dataset
       ⚡ Real-time Processing - Sub-second threat detection with multi-threading
