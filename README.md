@@ -55,18 +55,4 @@ AI/ML fundamentals
 
 Project Structure
 
-network-threat-detection/
-├── 📁 ml/                          # Machine Learning Components
-│   ├── Train_Model.ipynb           # Model training notebook
-│   ├── features.py                 # Feature extraction engine
-│   ├── model_rf.pkl               # Trained Random Forest model
-│   └── feature_columns.pkl       # Feature schema
-├── 📁 realtime/                    # Real-time Processing
-│   ├── capture.py                 # Packet capture & flow analysis
-│   └── classifier.py             # Threat classification engine
-├── 📁 templates/                   # Web Interface
-│   └── dashboard.html            #  dashboard
-    |── app.py                         # Flask web application
-├── requirements.txt               # Python dependencies
-├── README.md                      # This file
-└── LICENSE                        # MIT License
+<pre lang="markdown"> ```text network-threat-detection/ ├── ml/ # Machine Learning Components │ ├── Train_Model.ipynb # Model training notebook │ ├── features.py # Feature extraction engine │ ├── model_rf.pkl # Trained Random Forest model │ └── feature_columns.pkl # Feature schema ├── realtime/ # Real-time Processing │ ├── capture.py # Packet capture & flow analysis │ └── classifier.py # Threat classification engine ├── templates/ # Web Interface │ └── dashboard.html # Dashboard HTML template ├── app.py # Flask web application ├── requirements.txt # Python dependencies ├── README.md # Project README └── LICENSE # MIT License ``` </pre>
