@@ -9,11 +9,9 @@ Enterprise-grade AI-powered network intrusion detection system with real-time th
 
       🤖 99.8% ML Accuracy - Random Forest classifier trained on CICIDS 2017 dataset
       ⚡ Real-time Processing - Sub-second threat detection with multi-threading
-      🔒 Privacy-Preserving - Metadata-only analysis, no payload inspection
-      🌐 Web Dashboard - Beautiful cyberpunk-themed interface with live updates
-      🤖 Bot Detection - WiFi-based analysis for real vs automated traffic
+      🌐 Web Dashboard - Beautiful interface with live updates
       📊 7 Attack Types - DDoS, DoS, Port Scanning, Brute Force, Botnets, Web Attacks
-      🔧 Production Ready - Enterprise-grade performance and reliability
+      
       🔍 Threat Detection Capabilities
 
       Normal Traffic - Baseline network behavior
@@ -34,15 +32,7 @@ Enterprise-grade AI-powered network intrusion detection system with real-time th
       System Health - Performance monitoring and uptime tracking
       Mobile Responsive - Accessible from any device
 
-**🔧 Technical Features**
 
-      Multi-threaded Architecture - Concurrent packet processing
-      Flow-based Analysis - Bidirectional traffic reconstruction
-      Statistical Feature Engineering - 49 network flow characteristics
-      Confidence Scoring - Probabilistic threat assessment
-      Auto Interface Detection - Smart network adapter selection
-      Graceful Error Handling - Robust production-ready code
-  
 **📋 Prerequisites**
 
       System Requirements
