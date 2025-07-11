@@ -1,8 +1,8 @@
 # AI-ML-for-Networking 
 🛡️ AI/ML Network Threat Detection System
 
-Enterprise-grade AI-powered network intrusion detection system with real-time threat classification and WiFi-based bot detection
-🚀 Overview
+
+🚀 Overview:
     This cutting-edge cybersecurity solution combines machine learning, real-time packet analysis, and intelligent web monitoring to detect network threats with 99.8% accuracy. Built for enterprise environments, it provides automated threat detection, privacy-preserving analysis, and real-time alerting through an intuitive web dashboard.
 
 **Key Highlights**
