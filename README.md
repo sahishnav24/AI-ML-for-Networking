@@ -53,6 +53,20 @@ Python programming knowledge
 Basic understanding of networking concepts
 AI/ML fundamentals 
 
-Project Structure
+## 📁 Project Structure
+```text
+├── 📁 ml/
+│   ├── Train_Model.ipynb
+│   ├── features.py
+│   ├── model_rf.pkl
+│   └── feature_columns.pkl
+├── 📁 realtime/
+│   ├── capture.py
+│   └── classifier.py
+├── 📁 templates/
+│   └── dashboard.html
+├── app.py
+├── requirements.txt
+├── README.md
+└── LICENSE
 
-<pre lang="markdown"> ```text network-threat-detection/ ├── ml/ # Machine Learning Components │ ├── Train_Model.ipynb # Model training notebook │ ├── features.py # Feature extraction engine │ ├── model_rf.pkl # Trained Random Forest model │ └── feature_columns.pkl # Feature schema ├── realtime/ # Real-time Processing │ ├── capture.py # Packet capture & flow analysis │ └── classifier.py # Threat classification engine ├── templates/ # Web Interface │ └── dashboard.html # Dashboard HTML template ├── app.py # Flask web application ├── requirements.txt # Python dependencies ├── README.md # Project README └── LICENSE # MIT License ``` </pre>
