@@ -53,7 +53,8 @@ Enterprise-grade AI-powered network intrusion detection system with real-time th
         ├── 📁 ml/                          # Machine Learning Components
         │   ├── Train_Model.ipynb           # Model training notebook
         │   ├── features.py                 # Feature extraction engine
-        │   ├── model_rf.pkl               # Trained Random Forest model
+        │   ├── model_rf.pkl                # Trained Random Forest model
+            ├──label_encoder.pkl             
         │   └── feature_columns.pkl       # Feature schema
         ├── 📁 realtime/                    # Real-time Processing
         │   ├── capture.py                 # Packet capture & flow analysis
